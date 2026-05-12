@@ -1,0 +1,55 @@
+# Ruta: .gitignore
+
+# ---------------------------------------------------
+# 1. Credenciales y variables de entorno (¡MUY IMPORTANTE!)
+# ---------------------------------------------------
+.env
+
+# ---------------------------------------------------
+# 2. Carpetas de datos generados por el script
+# ---------------------------------------------------
+# Ignoramos el contenido de estas carpetas para no subir 
+# las listas M3U (que pueden ser pesadas o privadas) ni los logs a Git.
+m3u-list/*
+m3u-procesadas/*
+m3u-logs/*
+
+# (Opcional) Si quieres que Git cree las carpetas vacías en el repo, 
+# descomenta las siguientes 3 líneas y crea un archivo vacío 
+# llamado .gitkeep dentro de cada una de esas carpetas:
+# !m3u-list/.gitkeep
+# !m3u-procesadas/.gitkeep
+# !m3u-logs/.gitkeep
+
+# ---------------------------------------------------
+# 3. Archivos del sistema de macOS
+# ---------------------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# ---------------------------------------------------
+# 4. Archivos caché y compilados de Python
+# ---------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ---------------------------------------------------
+# 5. Entornos virtuales de Python
+# ---------------------------------------------------
+venv/
+env/
+.venv/
+ENV/
+
+# ---------------------------------------------------
+# 6. Herramientas de desarrollo (IDE / Editores)
+# ---------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
