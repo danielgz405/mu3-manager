@@ -1,0 +1,13 @@
+[16:27:32] --- APLICACIÓN INICIADA ---
+[16:28:23] Fusionando archivos: tvlist.m3u, colombia.m3u, spa.m3u, colombia-pirata.m3u
+[16:28:23] ARCHIVO CREADO: fusion_total_20260405_1628.m3u con 2308 canales.
+[16:28:23] Fusión terminada con 2308 canales únicos.
+[16:29:02] --- APLICACIÓN CERRADA ---
+[16:30:39] Software iniciado.
+[16:30:53] Fusionando: colombia-pirata.m3u, colombia.m3u, spa.m3u, tvlist.m3u
+[16:30:53] EXITO: Guardado PROCESADA_fusion_total_20260405_1630.m3u (2308 canales)
+[16:30:53] Fusión creada con 2308 canales.
+[16:31:10] Iniciando limpieza profunda de: PROCESADA_fusion_total_20260405_1630.m3u
+[16:32:23] EXITO: Guardado LIMPIA_PROCESADA_fusion_total_20260405_1632.m3u (1218 canales)
+[16:32:23] Resultado limpieza: 1218 activos de 2308 originales.
+[16:32:26] Software cerrado por el usuario.

@@ -1,0 +1,186 @@
+[7:33 PM, 12/1/2025] Yhairo  Gutierrez: #EXTM3U
+
+#COLOMBIA - NACIONALES
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/XWBYm7f.png" group-title="Colombia - Nacionales",Señal Colombia
+https://streaming.rtvc.gov.co/RTVC/colombia_main.m3u8
+
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/fes0YvX.png" group-title="Colombia - Regionales",Teleantioquia
+https://streaming.teveo.com.co/live/TATV/index.m3u8
+
+#DEPORTES (libres)
+#EXTINF:-1 tvg-id="FIFAPlus" tvg-logo="https://i.imgur.com/6jSYbCd.png" group-title="Deportes",FIFA+
+https://d2hrvno5bw6tg2.cloudfront.net/fifaplus/master.m3u8
+[7:48 PM, 12/1/2025] Yhairo  Gutierrez: #EXTM3U url-tvg="https://epg-ecwd.vercel.app/epg.xml.gz"
+
+##################################################
+# 🇨🇴 COLOMBIA – CANALES NACIONALES (PÚBLICOS)
+##################################################
+
+#EXTINF:-1 tvg-id="SenalColombia.co" tvg-logo="https://i.imgur.com/XWBYm7f.png" group-title="Colombia - Nacionales",Señal Colombia
+https://streaming.rtvc.gov.co/RTVC/colombia_main.m3u8
+
+#EXTINF:-1 tvg-id="CanalInstitucional.co" tvg-logo="https://i.imgur.com/VNFxpWC.png" group-title="Colombia - Nacionales",Canal Institucional
+https://streaming.rtvc.gov.co/RTVC/institucional_main.m3u8
+
+#EXTINF:-1 tvg-id="CanalCongreso.co" tvg-logo="https://i.imgur.com/LMheh6i.png" group-title="Colombia - Nacionales",Canal Congreso
+https://cdn.colombiawebs.com/congreso/live.m3u8
+
+
+##################################################
+# 🇨🇴 COLOMBIA – CANALES REGIONALES
+##################################################
+
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://i.imgur.com/fes0YvX.png" group-title="Colombia - Regionales",Teleantioquia
+https://streaming.teveo.com.co/live/TATV/index.m3u8
+
+#EXTINF:-1 tvg-id="Telemedellin.co" tvg-logo="https://i.imgur.com/7tlZC7z.png" group-title="Colombia - Regionales",Telemedellín
+https://mdstrm.com/live-stream/5d1f49eab8e8f307348f8f90.m3u8
+
+#EXTINF:-1 tvg-id="Telepacífico.co" tvg-logo="https://i.imgur.com/43dpblX.png" group-title="Colombia - Regionales",Telepacífico
+https://mdstrm.com/live-stream/57d1a220dbbfc7f86c6bb7b3.m3u8
+
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://i.imgur.com/AKYvV0w.png" group-title="Colombia - Regionales",Telecaribe
+https://streamer1.streamhost.org:1936/salive/GMTV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CanalTRO.co" tvg-logo="https://i.imgur.com/oy8cvL1.png" group-title="Colombia - Regionales",Canal TRO
+https://streaming.tro.com.co/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="CanalCapital.co" tvg-logo="https://i.imgur.com/jF0O1zj.png" group-title="Colombia - Regionales",Canal Capital
+https://live.canalcapital.gov.co/live-channel/stream_720p.m3u8
+
+#EXTINF:-1 tvg-id="CityTV.co" tvg-logo="https://i.imgur.com/iLUQZ7p.png" group-title="Colombia - Regionales",CityTV
+https://mdstrm.com/live-stream/5e4f85c3f9659f08d647f4f3.m3u8
+
+
+##################################################
+# ⚽ DEPORTES (SEÑALES OFICIALES Y LIBRES)
+##################################################
+
+#EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://i.imgur.com/En5KAgU.png" group-title="Deportes",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/2002825/geoRBTV_SPORTS/master.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://i.imgur.com/NXl7o6d.png" group-title="Deportes",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-en/master.m3u8
+
+#EXTINF:-1 tvg-id="FIFAPlus" tvg-logo="https://i.imgur.com/6jSYbCd.png" group-title="Deportes",FIFA+
+https://d2hrvno5bw6tg2.cloudfront.net/fifaplus/master.m3u8
+
+
+##################################################
+# 🎬 CINE / SERIES (LIBRES Y LEGALES)
+##################################################
+
+#EXTINF:-1 tvg-id="RetroTV" tvg-logo="https://i.imgur.com/8uXlS0H.png" group-title="Películas",Retro TV
+https://cdn.klowdtv.net/live1/retrotv_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VidaTV" tvg-logo="https://i.imgur.com/wSrD8Ix.png" group-title="Series",Vida TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/98bfd59bbd1d4d42b507995702d00278/index.m3u8
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Caracol_Televisión_logo_2017.png" group-title="Colombia",Caracol TV
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/co/caracol.m3u8
+
+#EXTINF:-1 tvg-id="RCN.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/RCN_Televisión_logo_2020.png" group-title="Colombia",RCN
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/co/rcn.m3u8
+
+#EXTINF:-1 tvg-id="Canal1.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Canal_1_2017.png" group-title="Colombia",Canal 1
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/co/canal1.m3u8
+
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Teleantioquia_logo.png" group-title="Colombia",Teleantioquia
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/co/teleantioquia.m3u8
+
+#EXTINF:-1 tvg-id="Telecaribe.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Telecaribe_logo.png" group-title="Colombia",Telecaribe
+https://mediastream.telecaribe.co/live/TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecafe.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Telecafe_logo.png" group-title="Colombia",Telecafé
+https://canaltelecafe-stream.com/app/live/index.m3u8
+
+
+# ============================
+# ⚽ DEPORTES – SEÑALES ABIERTAS
+# ============================
+
+#EXTINF:-1 tvg-id="WinSports.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Win_Sports_logo.png" group-title="Deportes",Win Sports (Free)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=817
+
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/TyC_Sports_logo.png" group-title="Deportes",TyC Sports
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ar/tycsports.m3u8
+
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Real_Madrid_TV_logo.png" group-title="Deportes",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv/master.m3u8
+
+
+# ============================
+# 🎬 PELÍCULAS / SERIES / NOVELAS
+# ============================
+
+#EXTINF:-1 tvg-name="RetroPlusMovies" tvg-logo="https://i.imgur.com/nbtQmU7.png" group-title="Películas",Retro Plus Movies
+https://stream.ichibantv.net:3713/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="VePlus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Venus_TV_logo.png" group-title="Series",VePlus
+https://ott.streann.com/loadbalancer/services/PlayMedia/playlist.m3u8?station=veplus1
+
+#EXTINF:-1 tvg-name="CineLatinoFree" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Cine_Latino_logo.png" group-title="Películas",Cine Latino Free
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=395
+
+
+# ============================
+# 📺 24/7 – GOLD (ACCIÓN / TERROR / COMEDIA / NOVELAS)
+# ============================
+
+#EXTINF:-1 tvg-name="Accion247" tvg-logo="https://i.imgur.com/Ot3EdrL.png" group-title="24/7",Acción 24/7
+https://stmv1.srvstm.com/action24/action24/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Terror247" tvg-logo="https://i.imgur.com/FvqM5ac.png" group-title="24/7",Terror 24/7
+https://stmv1.srvstm.com/terror/terror/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Novelas247" tvg-logo="https://i.imgur.com/rbYn7ZW.png" group-title="Novelas",Novelas Clásicas 24/7
+https://stmv1.srvstm.com/tlnovelas/tlnovelas/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Comedia247" tvg-logo="https://i.imgur.com/9FywUuY.png" group-title="Comedia",Comedia 24/7
+https://stmv1.srvstm.com/comedy/comedy/playlist.m3u8
+
+
+# ============================
+# 👶 INFANTILES
+# ============================
+
+#EXTINF:-1 tvg-name="Toonizaki" tvg-logo="https://i.imgur.com/C9Yv6Qo.png" group-title="Infantil",Toonizaki
+https://stream.ichibantv.net:3351/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-name="AnimeKids" tvg-logo="https://i.imgur.com/JoDWVkW.png" group-title="Infantil",Anime Kids
+https://stitcher-ipv.com/live/kidsanime/playlist.m3u8
+
+
+# ============================
+# 🌎 CANALES LATINOS ABIERTOS
+# ============================
+
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Azteca_Uno_logo.svg" group-title="México",Azteca Uno
+https://mdstrm.com/live-stream-playlist/5a7b1e63cc2e28072f76e3a3.m3u8
+
+#EXTINF:-1 tvg-id="Canal7.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TV_Publica_Argentina_logo.png" group-title="Argentina",TV Pública
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ar/tvpublica.m3u8
+
+#EXTINF:-1 tvg-id="RTV.ec" tvg-logo="https://i.imgur.com/eq3yO2p.png" group-title="Ecuador",RTS Ecuador
+https://api.streamyes.com/live/rts/playlist.m3u8
+
+
+# ============================
+# 🎶 MÚSICA
+# ============================
+
+#EXTINF:-1 tvg-name="RumbaTV" tvg-logo="https://i.imgur.com/1v2tKfH.png" group-title="Música",Rumba TV
+https://streamyes.akamaized.net/hls/rumbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="VibraMusic" tvg-logo="https://i.imgur.com/2mht4Jp.png" group-title="Música",Vibra Music
+https://stream.ichibantv.net:3512/live/playlist.m3u8
+
+
+# ============================
+# 📰 NOTICIAS
+# ============================
+
+#EXTINF:-1 tvg-id="DW.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Deutsche_Welle_logo.svg" group-title="Noticias",DW Español
+https://dwamdstream100.akamaized.net/hls/live/2015525/dwstream100/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="RT.en" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Russia-today-logo.svg" group-title="Noticias",RT en Español
+https://rt-esp.rttv.com/live/rt_esp/playlist.m3u8

@@ -1,0 +1,8 @@
+[22:00:04] Gestor IPTV modular iniciado.
+[22:00:40] Fusión creada: FUSION_20260511_2200.m3u (2265 canales)
+[22:03:12] Error con IA en un lote: Expecting value: line 1 column 1 (char 0)
+[22:05:01] Error con IA en un lote: Expecting value: line 1 column 1 (char 0)
+[22:06:31] Error con IA en un lote: Expecting value: line 1 column 1 (char 0)
+[22:10:01] Gestor IPTV modular iniciado.
+[22:32:39] Limpieza finalizada. Guardado en m3u-procesadas/LIMPIA_FUSION_20260511_2200_2232.m3u (999 canales óptimos).
+[22:43:27] Gestor IPTV modular iniciado.
